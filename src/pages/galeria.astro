@@ -1,0 +1,26 @@
+---
+// Define las imágenes manualmente si son pocas, o automatiza la ruta si prefieres
+const images = [
+  './img/auditoria.png',
+  './img/body.png',
+  './img/body2.png',
+  './img/consultoria.png',
+  './img/cursos.png',
+  './img/facebook.png',
+  './img/insta.png',
+  './img/youtube.png',
+  
+  // Añade aquí los nombres de los archivos que subiste
+];
+---
+
+<html>
+  <body>
+    <h1>Galería de Imágenes</h1>
+    <div style="display: flex; flex-wrap: wrap;">
+      {images.map(image => (
+        <img src={image} alt="Imagen" style="width: 200px; margin: 10px;" />
+      ))}
+    </div>
+  </body>
+</html>
