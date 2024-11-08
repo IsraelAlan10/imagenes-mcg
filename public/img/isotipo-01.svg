@@ -2,10 +2,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="90" height="60" viewBox="0 0 2250.000000 2250.000000"
+ width="90px" height="60px" viewBox="0 0 2250 1500"
  preserveAspectRatio="xMidYMid meet">
 
-<g transform="translate(0.000000,2250.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
+<g transform="translate(0.000000,2250.000000) scale(0.04,-0.04)"
+fill="#ffffff" stroke="none">
+    <!-- Contenido del logo SVG -->
 </g>
 </svg>
